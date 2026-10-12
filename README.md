@@ -1,2 +1,2 @@
 # Deep-Learning-Projects
-classification of brain tumors images from MRI data
+A collection of my academic projects involving deep learning, medical image analysis, and convolutional neural networks.
